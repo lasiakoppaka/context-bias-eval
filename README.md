@@ -60,10 +60,4 @@ Related metrics being developed:
 - Rubric dimension disaggregation (where in the rubric does bias appear?)
 - Cross-model bias benchmarking (GPT-4o vs Claude vs Gemini)
 
----
 
-
-
-## Author
-
-Lasia Koppaka — AI Research, UC Santa Cruz
